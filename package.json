@@ -21,5 +21,9 @@
   "homepage": "https://github.com/VerbitskaAlisa/nodejs-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^3.3.4"
   }
 }
